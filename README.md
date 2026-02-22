@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pablo 👋
 
-<!--
-**pablojhdcoder/pablojhdcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd Year Computer Science Student — Faculty of Computer Science (FIC), University of A Coruña  
+Backend & Frontend Development  
+Currently building production-style projects to strengthen real-world engineering skills
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,express,nodejs,c,cpp,spring,jest,ocaml,r" />
+</p>
+
+### Database Management
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongo,cassandra,elasticsearch,redis,postgres,mysql,prisma,kafka" />
+</p>
+
+### Tools / Software
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,powershell,docker,figma,latex,vscode,clion,idea,matlab" />
+</p>
+
+## Contact
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pablojhd) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pablojhd/)
