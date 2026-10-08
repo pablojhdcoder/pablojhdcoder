@@ -1,6 +1,6 @@
 # Hi, I'm Pablo 👋
 
-3rd Year Computer Science Student — Faculty of Computer Science (FIC), University of A Coruña  
+4rd Year Computer Science Student — Faculty of Computer Science (FIC), University of A Coruña  
 Backend & Frontend Development  
 Currently building production-style projects to strengthen real-world engineering skills
 
@@ -8,7 +8,7 @@ Currently building production-style projects to strengthen real-world engineerin
 
 ### Programming Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,express,nodejs,c,cpp,spring,jest,ocaml,r" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,express,nodejs,c,cs,spring,jest,ocaml,r" />
 </p>
 
 ### Database Management
