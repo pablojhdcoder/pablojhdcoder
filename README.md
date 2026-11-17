@@ -1,8 +1,17 @@
 # Hi, I'm Pablo 👋
 
-4rd Year Computer Science Student — Faculty of Computer Science (FIC), University of A Coruña  
+**4th-year Computer Science Student** — Faculty of Computer Science (FIC), University of A Coruña  
 Backend & Frontend Development  
 Currently building production-style projects to strengthen real-world engineering skills
+
+## Featured projects
+
+- **[IntroMesh](https://github.com/pablojhdcoder/IntroMesh)** - AI-assisted networking for in-person events (Meta Global AI Developer Hackathon 2026).
+- **[Idealow](https://github.com/pablojhdcoder/Idealow)** - Capture raw ideas, refine them with AI and validate them against market signals (CubePath Hackathon 2026).
+- **[WizzWords](https://github.com/pablojhdcoder/wizzwords-aac-platform)** - AAC platform combining ARASAAC pictograms, language generation and text-to-speech.
+- **[Best Bike Paths](https://github.com/pablojhdcoder/se2-polimi)** - Full-stack cycling platform (routes, trip tracking, safety). Software Engineering 2 at Politecnico di Milano.
+- **[LocalFlow](https://github.com/pablojhdcoder/LocalFlow)** - Local-first music player: search, download and play offline, no accounts or cloud.
+- **[Riki Brain](https://github.com/pablojhdcoder/hack-udc-2026)** - Personal knowledge system: fast capture into one inbox, then structured notes (HackUDC 2026).
 
 ## Tech Stack
 
@@ -23,4 +32,3 @@ Currently building production-style projects to strengthen real-world engineerin
 
 ## Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pablojhd) &nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pablojhd/)
