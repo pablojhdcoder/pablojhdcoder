@@ -17,12 +17,12 @@ Currently building production-style projects to strengthen real-world engineerin
 
 ### Programming Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,express,nodejs,c,cs,spring,jest,ocaml,r" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,ts,react,nextjs,express,nodejs,elixir,c,cs,spring,jest,ocaml,r" />
 </p>
 
 ### Database Management
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongo,cassandra,elasticsearch,redis,postgres,mysql,prisma,kafka" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongo,cassandra,elasticsearch,redis,postgres,mysql,prisma,kafka" />
 </p>
 
 ### Tools / Software
